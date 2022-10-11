@@ -1,10 +1,10 @@
 ### Hey there, I'm [Abdelrahman Ghazi](https://github.com/abdo3017)! 👋
 
 ## A passionate Egyptian junior software engineer that loves contributing and creating open source projects.
-- 🎓  2021 graduate from Information Systems department at Ain Shams University.
 - 🤔 I’m looking for a position as software engineer(.NET).
-- 📚  I’m currently learning Backend (.NET) & Frontend (Angular).
-- 📌  Lives in Cairo, Egypt.
+- 🎓 graduated from Information Systems department at Ain Shams University (2017-2021).
+- 📚 I’m currently learning Backend (.NET) & Frontend (Angular).
+- 📌 Lives in Cairo, Egypt.
 
 ### Connect with me:
 
