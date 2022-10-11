@@ -2,8 +2,8 @@
 
 ## A passionate Egyptian junior software engineer that loves contributing and creating open source projects.
 - 🎓  2021 graduate from Information Systems department at Ain Shams University.
-- 🤔 I’m looking for a position as Android developer \ software engineer.
-- 📚  Learning more about Android.
+- 🤔 I’m looking for a position as software engineer(.NET).
+- 📚  I’m currently learning Backend (.NET) & Frontend (Angular).
 - 📌  Lives in Cairo, Egypt.
 
 ### Connect with me:
